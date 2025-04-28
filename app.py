@@ -5,7 +5,7 @@ from collections import OrderedDict
 import time
 import logging
 
-# Configure logging to capture debug and error information
+# Configure logging to capture debug and error information.
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
